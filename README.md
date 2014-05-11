@@ -7,4 +7,4 @@ A mediawiki plugin for Coppermind.com, displaying user edits/pages via the Googl
 Install by placing folder into MediaWiki extensions folder, and add the
 following to Local Settings:
 
-require_once "$IP/extensions/User-Usage-Statistics/UsageStatistics.php";
+  require_once "$IP/extensions/User-Usage-Statistics/UsageStatistics.php";
